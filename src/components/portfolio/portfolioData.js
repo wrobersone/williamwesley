@@ -6,10 +6,11 @@ import Image5 from "../../../public/assets/img/portfolio/hulu.png";
 import Image6 from "../../../public/assets/img/portfolio/igedla.png";
 import Image7 from "../../../public/assets/img/portfolio/linktree.jpg";
 import Image8 from "../../../public/assets/img/portfolio/messenger.png";
-import Image9 from "../../../public/assets/img/portfolio/netflix.jpg";
+import Image9 from "../../../public/assets/img/portfolio/netflix.png";
 import Image10 from "../../../public/assets/img/portfolio/onestaff.png";
 import Image11 from "../../../public/assets/img/portfolio/realestate.jpg";
-import Image12 from "../../../public/assets/img/portfolio/teamOmaha.jpg";
+import Image12 from "../../../public/assets/img/portfolio/apple.png";
+import Image13 from "../../../public/assets/img/portfolio/spotify.png";
 
 const PortfolioData = [
   {
@@ -24,7 +25,7 @@ const PortfolioData = [
         client: "Freelance",
         language: "Next.js/React.js, CSS, Javascript, AXIOS, MobX",
         preview: "https://airbnb-clone-two-azure.vercel.app/",
-        link: "https://airbnb-clone-two-azure.vercel.app/",
+        link: "https://airb-clone-one.vercel.app/",
       },
     ],
   },
@@ -190,16 +191,33 @@ const PortfolioData = [
   },
   {
     id: 12,
-    type: "Logo Design",
+    type: "Apple Design",
     image: Image12,
-    tag: ["Logo"],
+    tag: ["OneStaff"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Logo Design",
-        client: "TeamOmaha - Local Real Estate Agent",
-        language: "InDesign, Illustrator",
-        
+        project: "Apple Design",
+        client: "Freelance",
+        language: "GSAP, React, 3D, Fiber",
+        preview: "https://apple-topaz.vercel.app/",
+        link: "https://apple-topaz.vercel.app/",
+      },
+    ],
+  },
+  {
+    id: 13,
+    type: "Spotify Clone",
+    image: Image13,
+    tag: ["OneStaff"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Spotify Clone",
+        client: "Freelance",
+        language: "Middleware, React, Recoil, TailwindCSS",
+        preview: "https://spotify2-eta.vercel.app/",
+        link: "https://spotify2-eta.vercel.app/",
       },
     ],
   },

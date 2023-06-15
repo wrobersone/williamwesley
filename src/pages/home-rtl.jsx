@@ -27,7 +27,7 @@ const HomeDark = () => {
     <Wrapper>
       <SEO pageTitle={"Home RTL"} />
 
-      <div className="yellow">
+      <div className="blue">
         <SwitchDark />
         {/* End Switcher */}
         <Tabs>
