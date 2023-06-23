@@ -34,7 +34,7 @@ function Resume() {
 							className="cardmedia"
 							component="iframe"
 							Height="1056px"
-							src="https://docs.google.com/document/d/1twvufarMXcDFG-99oz-ixq0i08cBzuSw/edit"
+							src="https://docs.google.com/document/d/15cmdsziJ5tiBszmkOClEOSLUxN2u5ezN2wmqWic10cU/edit"
 						/>
                         
 					</Card>

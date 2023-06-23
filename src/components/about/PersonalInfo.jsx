@@ -1,7 +1,7 @@
 import React from "react";
 
 const personalInfoContent = [
-  { meta: "Hometown", metaInfo: "Bay Area", hasColor: "" },
+  { meta: "Hometown", metaInfo: "San Francisco, CA", hasColor: "" },
   // { meta: "Age", metaInfo: "34 Years", hasColor: "" },
   // { meta: "Nationality", metaInfo: "Tunisian", hasColor: "" },
   { meta: "Location", metaInfo: "Omaha, NE", hasColor: "" },

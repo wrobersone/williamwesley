@@ -16,7 +16,7 @@ const experienceContent = [
   {
     year: "January 2017 - July 2018",
     position: "Content Moderator",
-    compnayName: "Facebook | Menlo Park, CA ",
+    compnayName: "Meta | Menlo Park, CA ",
     details: `Partnered cross-functionally with internal search analysis and engineering teams to implement strategies and improve search results for users. `,
   },
   {
