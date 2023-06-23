@@ -18,7 +18,7 @@ function Resume() {
 				<Row style={{ justifyContent: "center", position: "relative" }}>
                 <div className="col-12 mt-1">
                     <div className="resBTN">
-                        <a className="button" href={'https://docs.google.com/document/d/1twvufarMXcDFG-99oz-ixq0i08cBzuSw/edit'} rel="noreferrer" target="_blank" download>
+                        <a className="button" href={'https://docs.google.com/document/d/15cmdsziJ5tiBszmkOClEOSLUxN2u5ezN2wmqWic10cU/edit'} rel="noreferrer" target="_blank" download>
                         <span className="button-text">Download Resume</span>
                         <span className="button-icon fa fa-download"></span>
                         </a>

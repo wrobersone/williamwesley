@@ -5,7 +5,7 @@ const experienceContent = [
     year: " January 2022 - Present",
     position: "Frontend Developer",
     compnayName: "OneStaff Medical | Omaha, NE",
-    details: `Built new company website with ReactJS and NextJS. Designed prototypes and wireframes in Figma. Developed pages based on UI/UX Design `,
+    details: `Built new company website with ReactJS and NextJS. Designed prototypes and wireframes in Figma. Awarded 10K raise for increasing company visibility `,
   },
   {
     year: " December 2020 - April 2021",
