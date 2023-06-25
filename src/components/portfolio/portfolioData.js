@@ -9,8 +9,9 @@ import Image8 from "../../../public/assets/img/portfolio/messenger.png";
 import Image9 from "../../../public/assets/img/portfolio/netflix.png";
 import Image10 from "../../../public/assets/img/portfolio/onestaff.png";
 import Image11 from "../../../public/assets/img/portfolio/realestate.jpg";
-import Image12 from "../../../public/assets/img/portfolio/apple.png";
+import Image12 from "../../../public/assets/img/portfolio/jobsearch.png";
 import Image13 from "../../../public/assets/img/portfolio/spotify.png";
+import Image14 from "../../../public/assets/img/portfolio/fancy.png";
 
 const PortfolioData = [
   {
@@ -191,17 +192,17 @@ const PortfolioData = [
   },
   {
     id: 12,
-    type: "Apple Design",
+    type: "Job Search",
     image: Image12,
     tag: ["OneStaff"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Apple Design",
+        project: "Job Search",
         client: "Freelance",
-        language: "GSAP, React, 3D, Fiber",
-        preview: "https://apple-topaz.vercel.app/",
-        link: "https://apple-topaz.vercel.app/",
+        language: "Next JS, React, TailwindCSS",
+        preview: "https://job-search-sage.vercel.app/",
+        link: "https://job-search-sage.vercel.app/",
       },
     ],
   },
@@ -218,6 +219,22 @@ const PortfolioData = [
         language: "Middleware, React, Recoil, TailwindCSS",
         preview: "https://spotify2-eta.vercel.app/",
         link: "https://spotify2-eta.vercel.app/",
+      },
+    ],
+  },
+  {
+    id: 14,
+    type: "Fancy Restaurant",
+    image: Image14,
+    tag: ["OneStaff"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Fancy Restaurant",
+        client: "Freelance",
+        language: "HTML, CSS, JS, React",
+        preview: "https://fancy-restaurant.netlify.app/",
+        link: "https://fancy-restaurant.netlify.app/",
       },
     ],
   },
